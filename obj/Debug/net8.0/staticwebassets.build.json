@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "g84JMVhCTWzm7eoPatZ3G7eTUtSIArnut9CZRwLljhM=",
+  "Source": "BackendEstoque",
+  "BasePath": "_content/BackendEstoque",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
