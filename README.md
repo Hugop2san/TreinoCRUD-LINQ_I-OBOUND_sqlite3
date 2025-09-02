@@ -49,5 +49,10 @@ await _context.SaveChangesAsync();
 <img width="1861" height="627" alt="image" src="https://github.com/user-attachments/assets/fef20c0a-9766-41a5-81f2-17e4d0b46886" />
 <img width="1760" height="833" alt="image" src="https://github.com/user-attachments/assets/e1f05440-7e01-42f5-b9b2-3b365b8f1cf7" />
 
+###  Ativando o DB e consultando tabelas disponiveis atravez de queries
+
+<img width="753" height="283" alt="image" src="https://github.com/user-attachments/assets/8144c47a-dd8c-41c4-8bd0-24719a1fe0f3" />
+
+
 
 
