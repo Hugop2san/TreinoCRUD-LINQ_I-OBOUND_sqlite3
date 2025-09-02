@@ -1,4 +1,4 @@
-# CRUD com .NET, LINQ e SQLite
+# CRUD com .NET Core, LINQ e SQLite3
 
 Este exercicio é um exemplo de implementação de um **CRUD** (Create, Read, Update, Delete) em **.NET**, utilizando **Entity Framework Core** com **LINQ assíncrono**, persistência em **SQLite** e visualização/interação via **Swagger UI**.
 
@@ -52,6 +52,7 @@ await _context.SaveChangesAsync();
 ###  Ativando o DB, consultando tabelas disponiveis e consultando o banco atravez de queries retornando total de produtos
 
 <img width="753" height="283" alt="image" src="https://github.com/user-attachments/assets/8144c47a-dd8c-41c4-8bd0-24719a1fe0f3" />
+
 
 
 
